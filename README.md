@@ -46,8 +46,10 @@ My website is currently under construction. Please check back soon for updates!
 
 
 ##
-
-### 🏆GitHub Stats:
+<div align="center">
+  
+### 🏆GitHub Stats
+</div>
 <br><br>
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathaendo&layout=compact&theme=dark&title_color=00F0FF&text_color=8B8B8B&bg_color=000&border_radius=3&border_color=00F0FF&cache_seconds=60" height="180px"/>
