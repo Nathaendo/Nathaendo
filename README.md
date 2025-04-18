@@ -48,14 +48,20 @@ My website is currently under construction. Please check back soon for updates!
 ##
 
 ### 🏆GitHub Stats:
+<br><br>
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathaendo&layout=compact&theme=dark&title_color=00F0FF&text_color=8B8B8B&bg_color=000&border_radius=3&border_color=00F0FF&cache_seconds=60" height="180px"/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nathaendo&count_private=true&show_icons=true&theme=dark&cache_seconds=30&title_color=00F0FF&text_color=FFF&bg_color=000&border_radius=3&border_color=00F0FF&icon_color=00F0FF" height="180px"/>
   <img src="https://github-profile-trophy.vercel.app/?username=Nathaendo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
-
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nathaendo/Nathaendo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nathaendo/Nathaendo/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nathaendo/Nathaendo/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 <div align="center">
   
