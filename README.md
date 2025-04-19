@@ -23,7 +23,7 @@ My website is currently under construction. Please check back soon for updates!
 #### 🖱️ Programming languages:
   <div align="left">
     <img src="Assets/Pascal_icon.png" alt="Pascal Icon" width="50" height="45"/>
-    <img src="https://skillicons.dev/icons?i=cpp,c,python"/>
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,html"/>
     <img src="Assets/assembly.png" alt="Assembly Icon" width="50" height="45"/>
   </div>
 
