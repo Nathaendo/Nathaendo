@@ -9,7 +9,7 @@
   <img src="Assets/ghibli.png" alt="Perfil Foto" width="500px">
 </div>
 <br><br>
- I am a third-period Computer Science Student at UFPR (Federal University of Paraná). Besides, I appreciate learning languages and new ways to improve my current skills. I’m actively seeking a technology field that captivates me and provides a fulfilling career. My goal is to contribute to innovation and technological advances in the tech industry.
+ I am a fourth-period Computer Science Student at UFPR (Federal University of Paraná). Besides, I appreciate learning languages and new ways to improve my current skills. I’m actively seeking a technology field that captivates me and provides a fulfilling career. My goal is to contribute to innovation and technological advances in the tech industry.
 
 ## 
  
