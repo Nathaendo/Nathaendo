@@ -13,8 +13,8 @@
 
 ## 
  
-### 🚧 Website Under Construction 🚧
-My website is currently under construction. Please check back soon for updates!
+### Website (Portuguese)
+https://portfolio-angular-deploy.vercel.app/
 
 ##
 
